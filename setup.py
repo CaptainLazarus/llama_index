@@ -22,7 +22,7 @@ install_requires = [
     "openai>=0.26.4",
     "pandas",
     "urllib3<2",
-    "fsspec>=2023.5.0",
+    "fsspec>=2023.4.0",
     "typing-inspect>=0.8.0",
     "typing_extensions>=4.5.0",
     "beautifulsoup4",  # hotfix for langchain 0.0.212 bug
